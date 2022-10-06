@@ -90,7 +90,7 @@ Exercises and guide: https://github.com/denishvachhani/react-alicante-keynotes/b
 - [ ] Index.html entry point
 - [ ] Use esbuild under the hood
 - [ ] No need to remove react-script, just add vite as new npm run command and see the difference in build speed.
-- [ ] [Virus.dev](https://vitejs.dev)
+- [ ] [ViteJs.dev](https://vitejs.dev)
     
 ### Some Useful tools 
 - [ ] Sizzy - Developer's browswer -  https://sizzy.co/
@@ -98,7 +98,7 @@ Exercises and guide: https://github.com/denishvachhani/react-alicante-keynotes/b
 - [ ] modheader - to intercept/modify headers
 - [ ] Regexplained - understand regex with diagram - https://www.regexplained.co.uk
 - [ ] qwik - One guy talked about The HTML-first framework (fastest possible) - qwik.builder.io/
-- [ ] @database - interect with database with Typescript/Javascript code. - https://www.atdatabases.org/docs/sq
+- [ ] @database - interect with database with Typescript/Javascript code. - https://www.atdatabases.org/docs/sql
 - [ ] (not a tool) - fun project on one spearker - https://ok-google.io/
 
 
