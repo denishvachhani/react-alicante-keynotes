@@ -28,9 +28,9 @@ Exercises and guide: https://github.com/denishvachhani/react-alicante-keynotes/b
 
 ### useEffect – Managing Effects More Effectively 
 - [ ] useEffect is not for all effects
-- [ ] useEffect is not a lifecycle hook
+- [ ] useEffect shouldn't be used as lifecycle hook
 - [ ] Default behaviour of useEffect is infinite loop
-- [ ] useEffect is really should be used for  synchronisation and not to perform side effect.
+- [ ] useEffect should be used for synchronisation with external events and not to perform side effect.
 - [ ] But where do side effects go then??
 - [ ] Event handlers is one answer —> ie. onClick, onSubmit 
 - [ ] useEffect —> eventHandler()
