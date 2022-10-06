@@ -17,6 +17,10 @@ https://github.com/krambertech/react-testing-workshop
 - [ ] Accessibility in chrome debugger to check role value
 
 ### Workshop:2 Typescript for react developer
+
+Exercises and guide: https://github.com/denishvachhani/react-alicante-keynotes/blob/main/typescript-for-react-developers.pdf
+
 - [ ] Runtime type validation (generally we write type definitions to match what we expect but generally its not gurrentee, been only able to find out when code broke at runtime - sometimes hard to debug. hence runtime type validation comes to rescue -- Speaker demoed it with funtypes and funtypes-schemas, but there are other options available (i.e: joi) 
 - [ ] ts-expect-error vs ts-ignore-error. (Recommended to use ts-expect-error bcz it will scream if its not an error anymore)
+- [ ] types vs interface (interface is better for typing comprehensive object types as it give better info in error popup)
 
