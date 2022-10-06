@@ -73,6 +73,32 @@ Exercises and guide: https://github.com/denishvachhani/react-alicante-keynotes/b
     - [ ] Platform dependent property - marked as optional in Type script and also add error while trying to use
     - [ ] Platform dependent types
 
+### React to React native
+- [ ] Most of things are - <View>
+- [ ] Wrap text with <Text>
+- [ ] Button  doesn’t look like Button, you have to style it
+- [ ] {something.length && something.map…} crash when its 0 == Always cast it with !!
+- [ ] Upgrading react-native — pain in th a**
+- [ ] Eco system of react native is not as mature as react — so many 3rd party library - needs to be maintained on every upgrade
+- [ ] Create new project with new react-native version and copy over files - last option
+    
+### Vite - The next generation frontend tooling
+- [ ] Fast Bundler 
+- [ ] Index.html entry point
+- [ ] Use esbuild under the hood
+- [ ] No need to remove react-script, just add vite as new npm run command and see the difference in build speed.
+- [ ] [Virus.dev](https://vitejs.dev)
+    
+### Some Useful tools 
+- [ ] Sizzy - Developer's browswer -  https://sizzy.co/
+- [ ] Requestly - to intercept requests
+- [ ] modheader - to intercept/modify headers
+- [ ] Regexplained - understand regex with diagram - https://www.regexplained.co.uk
+- [ ] qwik - One guy talked about The HTML-first framework (fastest possible) - qwik.builder.io/
+- [ ] @database - interect with database with Typescript/Javascript code. - https://www.atdatabases.org/docs/sq
+- [ ] (not a tool) - fun project on one spearker - https://ok-google.io/
+
+
 
 
 
