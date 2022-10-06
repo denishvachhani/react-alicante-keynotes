@@ -1,5 +1,8 @@
 ## React Conference 💻 🌞 🏖️ 🇪🇸
 
+![image info](https://reactalicante.es/assets/build/a31a53b026de701c2f6e27ec52d0b28e.jpg)
+
+
 Disclaimer: Below are my interpretations/notes/learnings from all talks/sessions, these may NOT be 100% right :)
 
 ### Workshop:1 Comprehensive guide to testing React applications
